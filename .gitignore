@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Temporary files with personal information
+tmp/
+*.pdf
+*.docx
+*.doc
+*.png
+*.jpg
+*.jpeg
+
 # C extensions
 *.so
 
